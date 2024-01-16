@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Generate aN ASCII Art iamge:
 
 ```
-python text2image.py --path "input/wiki.png"
+python text2image.py --path "input/cats.jpg"
 ```
 
 the generated image and txt file will be saved at output/ .
@@ -30,23 +30,30 @@ python text2image.py --path "input/nthu.jpg" --language "mandarin" --char "æ˜Ÿæœ
 ```
 
 ```
-                 ,       _,   /;                
-               ," ',     ; - "`^                
-              ;`    ""y`                        
-              !.,   ,'   *      ,               
-             ! `"-x.'           "\              
-            !      L     !       "~,            
-           /       !     !          *           
-           `       "<     \          L          
-          "          ,    "          !          
-         "           L     ,         "          
-         *           "     !         '          
- ~.~..~~.,.l._.*Z~.,(.~~,"T` :~,_,.~i~..~....~~ 
-             `*_"<         '"~--~~"`            
-               " "                              
-               ^ !                              
-              ! ;                               
-              ! `                               
-              ! !~:*                            
-               ".-'"
+
+                     _L        ._     y,                    
+                    ,^^_       ?`"~--- L                    
+                  _``  `-~,,,  ;       "                    
+                  /        >r  ?        L                   
+                 /`,,     *    ^<      v,                   
+                ,` "L"._>"      v       "v                  
+               ?`      J        "         L                 
+              _         L      ~           ^*               
+              F         ,       ,             ,             
+             *          ",       ,            \             
+            /             ;      L             "            
+            L             "      "             `            
+                          )       L           ,             
+            \             F       `           F             
+ ,,,,,,,,,,,,*r,,,,cr*~_,r,,,,,.f_`"*,,,__,,,i,,,,,,,,,,,,, 
+               `"`-`>L``         ^".,_ __..r`               
+                   L  L              ````                   
+                   ;  |                                     
+                  )` ,                                      
+                  L ,`                                      
+                 _  `                                       
+                 "  l                                       
+                  L_ * `"                                   
+                   `"""*`
+
 ```
