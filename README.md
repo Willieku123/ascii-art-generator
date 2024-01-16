@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Generate ASCII Art
 
-Generate aN ASCII Art iamge:
+Generate an ASCII Art image:
 
 ```
 python text2image.py --path "input/cats.jpg"
